@@ -1,8 +1,7 @@
 
-<h6>Chi sono</h6>
+<h6>Who i am</h6>
 
-Sono una ragazza con una forte passione per l'informatica,aspiro a diventare
-presto una svilupattrice, attualmente sto seguendo un corso presso la TNV Academy
-dove sto imparando ad utilizzare programmi come C,C++,Java,Javascript,SQL,ecc
-Questo per me non è solo un lavoro, ma costituisce la mia passione 💻
+I am a girl with a strong passion for computer science, I aspire to become a developer soon,
+I am currently taking a course at the TNV Academy where I am learning to use programs such as C,
+C ++, Java, Javascript, SQL, etc. This for me is not it's just a job, but it's my passion 💻
 
