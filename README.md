@@ -5,3 +5,4 @@ I am a girl with a strong passion for computer science, I aspire to become a dev
 I am currently taking a course at the TNV Academy where I am learning to use programs such as C,
 C ++, Java, Javascript, SQL, etc. This for me is not it's just a job, but it's my passion 💻
 
+I love 🌟📲🎧🎮💻❄⛄
